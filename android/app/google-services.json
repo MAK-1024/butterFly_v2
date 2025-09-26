@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "98649011712",
+    "project_id": "ordersapp-fa9d6",
+    "storage_bucket": "ordersapp-fa9d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98649011712:android:fbf47265df24f78c79cae5",
+        "android_client_info": {
+          "package_name": "com.example.butterfly_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98649011712-t6v7u2ug6mo85sr56ugt8l5c28cld4aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASG4dRcNvndCxGl7LgBVB8B7a8CA1GtK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98649011712-t6v7u2ug6mo85sr56ugt8l5c28cld4aj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98649011712-576988d01dm66s70kj7d6m9ss9i51c7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ordersApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98649011712:android:eeb7afa6cb9f7ea779cae5",
+        "android_client_info": {
+          "package_name": "com.example.orders_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98649011712-t6v7u2ug6mo85sr56ugt8l5c28cld4aj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASG4dRcNvndCxGl7LgBVB8B7a8CA1GtK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98649011712-t6v7u2ug6mo85sr56ugt8l5c28cld4aj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98649011712-576988d01dm66s70kj7d6m9ss9i51c7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ordersApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
